@@ -18,6 +18,7 @@ filetype plugin indent on
 
 set ts=4
 set number
+colorscheme elflord
 
 set wildmenu
 set wildmode=list:longest,full
