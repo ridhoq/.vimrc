@@ -18,6 +18,7 @@ filetype plugin indent on
 
 set ts=4
 set number
+set shiftwidth = 4
 colorscheme elflord
 
 set wildmenu
