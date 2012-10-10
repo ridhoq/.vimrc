@@ -18,8 +18,10 @@ filetype plugin indent on
 
 set ts=4
 set number
-set shiftwidth = 4
-colorscheme elflord
+set shiftwidth=4
+set bg=dark
 
 set wildmenu
 set wildmode=list:longest,full
+
+set splitright
